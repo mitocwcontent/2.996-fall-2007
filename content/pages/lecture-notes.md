@@ -1,0 +1,19 @@
+---
+content_type: page
+title: Lecture Notes
+uid: c6958fde-a793-c080-4033-7b892134ebe6
+---
+
+| LEC # | TOPICS |
+| --- | --- |
+| 1 |  {{< br >}}{{< br >}} Introduction ([PDF]({{< baseurl >}}/resources/lecture01)) {{< br >}}{{< br >}} Robopsy slide ([PDF]({{< baseurl >}}/resources/robopsy_slide)) {{< br >}}{{< br >}}  |
+| 2 | {{< h 3 >}}Basic electronics{{< /h >}} {{< br >}}{{< br >}} Linear elements, thevenin-norton, impedance analysis ([PDF]({{< baseurl >}}/resources/lecture02)) {{< br >}}{{< br >}}  |
+| 3 | {{< h 3 >}}Diodes and transistors{{< /h >}} {{< br >}}{{< br >}} Models, LEDs, peak-detector, zeners, diode protection circuits, BJT, FET, amplifiers, drivers, H-bridges ([PDF]({{< baseurl >}}/resources/lecture03)) {{< br >}}{{< br >}} {{< h 3 >}}Handouts{{< /h >}} {{< br >}}{{< br >}} The Interactive Balloon ([PDF]({{< baseurl >}}/resources/96_04_ibm_bln_pr)) {{< br >}}{{< br >}} Balloons.mov ([MOV]({{< baseurl >}}/resources/balloons)) {{< br >}}{{< br >}}  |
+| 4 | {{< h 3 >}}Power supplies{{< /h >}} {{< br >}}{{< br >}} Proper bypassing, linear power supplies, switching power supplies ([PDF]({{< baseurl >}}/resources/lec4_pwr_suplies)) {{< br >}}{{< br >}} MIT libraries lectures on literature and patent searching {{< br >}}{{< br >}}  |
+| 5 | {{< h 3 >}}Microprocessors I{{< /h >}} {{< br >}}{{< br >}} Basic topologies, feedback, stability, accurate peak detector ([PDF]({{< baseurl >}}/resources/lec5_mcroprcsr_1)) {{< br >}}{{< br >}}  |
+| 6 | {{< h 3 >}}Microprocessors II{{< /h >}} {{< br >}}{{< br >}} Practical considerations, reading op amp datasheets error propagation, filters ([PDF]({{< baseurl >}}/resources/lc6_mcroprcsor2)) {{< br >}}{{< br >}}  |
+| 7 | {{< h 3 >}}OpAmps I{{< /h >}} {{< br >}}{{< br >}} Basics programming concepts, memory organization, clocks, ADCs ([PDF]({{< baseurl >}}/resources/lec7_opamps1)) {{< br >}}{{< br >}} {{< h 3 >}}Handouts{{< /h >}} {{< br >}}{{< br >}} Ones complement ([PDF]({{< baseurl >}}/resources/onescomplement)) {{< br >}}{{< br >}} main.c ([C](/courses/mechanical-engineering/2-996-biomedical-devices-design-laboratory-fall-2007/lecture-notes/main.c)) {{< br >}}{{< br >}} adc\_example.zip ([ZIP]({{< baseurl >}}/resources/adc_example)) (The ZIP file contains: adc\_xample\_code.pdf and main.c files.) {{< br >}}{{< br >}} demo2.zip ([ZIP]({{< baseurl >}}/resources/demo2)) (The ZIP file contains: main.c, crc.h, and other supporting files for 2nd demo.) {{< br >}}{{< br >}} demo.zip ([ZIP]({{< baseurl >}}/resources/demo)) (The ZIP file contains: main.c and other supporting files for demo.) {{< br >}}{{< br >}} dio\_example.zip ([ZIP]({{< baseurl >}}/resources/dio_example)) (The ZIP file contains: dio\_xample\_code.pdf and main.c files.) {{< br >}}{{< br >}} MSP430F22xx\_example\_C\_code.zip ([ZIP]({{< baseurl >}}/resources/msp430f22xx_example_c_code)) (The ZIP file contains: 123 .c files.) {{< br >}}{{< br >}} timer\_example.zip ([ZIP]({{< baseurl >}}/resources/timer_example)) (The ZIP file contains: timr\_xample\_code.pdf and main.c files.) {{< br >}}{{< br >}} uart\_example.zip ([ZIP]({{< baseurl >}}/resources/uart_example)) (The ZIP file contains: uart\_xample\_code.pdf and other supporting files for the communication peripherals UART.) {{< br >}}{{< br >}}  |
+| 8 | {{< h 3 >}}OpAmps II{{< /h >}} {{< br >}}{{< br >}} Timers, communications, wireless ([PDF]({{< baseurl >}}/resources/lec8_opamps2)) {{< br >}}{{< br >}}  |
+| 9 | {{< h 3 >}}Analog signal processing{{< /h >}} {{< br >}}{{< br >}} ADC, references, noise, synchronous detection ([PDF]({{< baseurl >}}/resources/lec9_anlg_procsn)) {{< br >}}{{< br >}}  |
+| 10 | {{< h 3 >}}Sensors I{{< /h >}} {{< br >}}{{< br >}} Capacitive, impedance, optical ([PDF]({{< baseurl >}}/resources/lec10_sensors)) {{< br >}}{{< br >}}  |
+| 11 | {{< h 3 >}}Sensors II{{< /h >}} {{< br >}}{{< br >}} Encoders, magnetic, strain acoustic, inertial {{< br >}}{{< br >}}
